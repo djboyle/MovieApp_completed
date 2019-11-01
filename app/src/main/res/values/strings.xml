@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="error_message">
+        An error has occurred. Please try restarting the APP
+    </string>
+    <string name="action_sort_pop">
+       Most Popular
+    </string>
+    <string name="action_sort_rating">
+        Highest Rated
+    </string>
+    <string name="connectivity_fail_msg">
+        No internet connection found
+    </string>
+    <string name="movie_rate_denom">
+        /10
+    </string>
+</resources>
